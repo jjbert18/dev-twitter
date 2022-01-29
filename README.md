@@ -4,7 +4,7 @@
 
 ### Primarly focused on CSS, HTML, JS, Design, Accessibility, and Web Performance.
 
-Some accounts might be stale or some might not be your thing. These are just people and things I've found helpful and where worth a follow at one point in time.
+Up to you on which ones you want to follow. Some accounts might be stale or some might not be your thing. These are just people and things I've found helpful and where worth a follow at one point in time.
 
 Most people accounts do have a mix of personal and dev content. Sometimes controversial things will be posted, it happens. Personally, following a few of these accounts have helped me be more aware and mindful of issues and biases that I haven't experienced first-hand.
 
